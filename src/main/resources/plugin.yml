@@ -1,0 +1,5 @@
+name: FallDamageSlowness
+version: '${version}'
+main: ca.sperrer.p0t4t0sandwich.falldamageslowness.FallDamageSlowness
+api-version: 1.13
+folia-supported: true
